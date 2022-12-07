@@ -24,7 +24,7 @@ namespace sdds {
 		if (index == next_pos)
 		{
 			more = false;
-			throw " Error: o token. \n";
+			throw " ERROR: No token. \n";
 		}
 
 		if ((int)indexChecker != -1) {
