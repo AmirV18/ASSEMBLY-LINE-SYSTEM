@@ -1,11 +1,3 @@
-/*
-	NAME: AMIR VASSELL
-	SENECA EMAIL: ARVASSELL@MYSENECA.CA
-	STUDENT ID: 154737209
-	DATE: December 5. 2022
-	NOTE: I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-*/
-
 #include <iostream>
 #include <fstream>
 #include <algorithm>
